@@ -1,0 +1,8 @@
+C:\Users\yasan\OneDrive\Escritorio\github\DirectorioEmp\DirectorioEmp\bin\Debug\DirectorioEmp.exe.config
+C:\Users\yasan\OneDrive\Escritorio\github\DirectorioEmp\DirectorioEmp\bin\Debug\DirectorioEmp.exe
+C:\Users\yasan\OneDrive\Escritorio\github\DirectorioEmp\DirectorioEmp\bin\Debug\DirectorioEmp.pdb
+C:\Users\yasan\OneDrive\Escritorio\github\DirectorioEmp\DirectorioEmp\obj\Debug\DirectorioEmp.csproj.AssemblyReference.cache
+C:\Users\yasan\OneDrive\Escritorio\github\DirectorioEmp\DirectorioEmp\obj\Debug\DirectorioEmp.csproj.CoreCompileInputs.cache
+C:\Users\yasan\OneDrive\Escritorio\github\DirectorioEmp\DirectorioEmp\obj\Debug\DirectorioEmp.exe
+C:\Users\yasan\OneDrive\Escritorio\github\DirectorioEmp\DirectorioEmp\obj\Debug\DirectorioEmp.pdb
+C:\Users\yasan\OneDrive\Escritorio\github\DirectorioEmp\DirectorioEmp\obj\Debug\DirectorioEmp.exe.config
